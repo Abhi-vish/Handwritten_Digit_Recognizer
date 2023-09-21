@@ -24,9 +24,7 @@ To use this digit recognition project, follow these steps:
 
 To clone the repository to your local machine, use the following command:
 
-bash
-Copy code
-git clone `https://github.com/yourusername/digit-recognition.git`
+git clone `https://github.com/Abhi-vish/Handwritten_Digit_Recoginizer.git`
 
 If you prefer to run it in Google Colab, you can directly open the Colab notebooks mentioned below.
 
