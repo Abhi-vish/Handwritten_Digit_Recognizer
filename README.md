@@ -40,6 +40,8 @@ To use the Gradio app for digit recognition, open the `gradio_app.ipynb` noteboo
 Run all the cells in this notebook to start and run the Gradio app.
 By following these steps, you can both retrain the model and use the Gradio app for digit recognition.
 
+#### Note : Change the `checkpoint = "Model\DigitRecognitionCNNModel.pth"`. This path with model's orginal path on Colab.
+
 Note: Ensure you have the required dependencies installed before running the notebooks. You can typically install dependencies using `pip install -r requirements.txt`.
 ## 🚀 About Me
 I'm a student...
